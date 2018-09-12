@@ -1,0 +1,64 @@
+﻿生成启动时间为 2018/9/12 9:26:38。
+     1>项目“F:\RgbdMS\RgbdMS\RgbdMS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Tracker.cpp
+         main.cpp
+     1>f:\rgbdms\rgbdms\Tracker.h(26): warning C4091: “typedef ”: 没有声明变量时忽略“myPoint”的左侧
+     1>f:\rgbdms\rgbdms\Tracker.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“Cluster”的左侧
+         Tracker.cpp
+     1>f:\rgbdms\rgbdms\Tracker.h(26): warning C4091: “typedef ”: 没有声明变量时忽略“myPoint”的左侧
+     1>f:\rgbdms\rgbdms\Tracker.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“Cluster”的左侧
+     1>Tracker.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tracker.cpp(218): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(219): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(220): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(270): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(271): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(272): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(338): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(339): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(340): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(591): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tracker.cpp(725): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tracker.cpp(748): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(749): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(750): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(797): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(798): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(799): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(833): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(834): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(835): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(862): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(863): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(864): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(896): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(912): warning C4101: “coeff”: 未引用的局部变量
+     1>Tracker.cpp(914): warning C4101: “fscore”: 未引用的局部变量
+     1>Tracker.cpp(1005): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1006): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1007): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1008): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(992): warning C4101: “z3”: 未引用的局部变量
+     1>Tracker.cpp(992): warning C4101: “y3”: 未引用的局部变量
+     1>Tracker.cpp(992): warning C4101: “x3”: 未引用的局部变量
+     1>Tracker.cpp(1036): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1037): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1038): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1039): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1102): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Tracker.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tracker.cpp(1129): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\RgbdMS\Release\RgbdMS.exe" /INCREMENTAL:NO /NOLOGO opencv_core249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_video249.lib opencv_ml249.lib opencv_objdetect249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\RgbdMS\Release\RgbdMS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\RgbdMS\Release\RgbdMS.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\Tracker.obj
+         正在生成代码
+     1>f:\rgbdms\rgbdms\tracker.h(81): warning C4715: “Tracker::get_cur_rect”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         RgbdMS.vcxproj -> F:\RgbdMS\Release\RgbdMS.exe
+     1>已完成生成项目“F:\RgbdMS\RgbdMS\RgbdMS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.78

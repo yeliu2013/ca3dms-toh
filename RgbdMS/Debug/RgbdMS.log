@@ -1,0 +1,59 @@
+﻿生成启动时间为 2018/4/5 23:27:57。
+     1>项目“D:\VS2010 projects\RgbdMS\RgbdMS\RgbdMS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Tracker.cpp
+         Tracker.cpp
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.h(26): warning C4091: “typedef ”: 没有声明变量时忽略“myPoint”的左侧
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“Cluster”的左侧
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(218): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(219): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(220): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(270): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(271): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(272): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(338): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(339): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(340): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(596): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(726): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(749): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(750): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(751): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(798): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(799): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(800): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(834): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(835): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(836): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(863): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(864): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(865): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(897): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(913): warning C4101: “coeff”: 未引用的局部变量
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(915): warning C4101: “fscore”: 未引用的局部变量
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1006): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1007): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1008): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1009): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(993): warning C4101: “z3”: 未引用的局部变量
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(993): warning C4101: “y3”: 未引用的局部变量
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(993): warning C4101: “x3”: 未引用的局部变量
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1037): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1038): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1039): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1040): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1117): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.cpp(1130): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs2010 projects\rgbdms\rgbdms\tracker.h(81): warning C4715: “Tracker::get_cur_rect”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2010 projects\RgbdMS\Debug\RgbdMS.exe" /INCREMENTAL /NOLOGO opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_video249d.lib opencv_ml249d.lib opencv_objdetect249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2010 projects\RgbdMS\Debug\RgbdMS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2010 projects\RgbdMS\Debug\RgbdMS.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Tracker.obj
+         RgbdMS.vcxproj -> D:\VS2010 projects\RgbdMS\Debug\RgbdMS.exe
+     1>已完成生成项目“D:\VS2010 projects\RgbdMS\RgbdMS\RgbdMS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.33
