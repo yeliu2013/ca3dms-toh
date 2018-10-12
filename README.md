@@ -1,4 +1,4 @@
-# RGBD Mean-shift
+# 3-D Mean-shift
 source code for Context-aware 3-D Mean-shift with Occlusion Handling for Robust Object Tracking in RGB-D Videos 
 
 dependency: OpenCV (2.4.9 other versions should also be OK)
